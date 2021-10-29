@@ -105,6 +105,7 @@ body {
 .header__job,
 .footer__link {
   font-weight: 400;
+  text-transform: uppercase;
   transition: color 0.3s ease;
 }
 
