@@ -102,8 +102,7 @@ body {
   padding-left: 40px;
 }
 
-.header__job,
-.footer__link {
+.header__job {
   font-weight: 400;
   text-transform: uppercase;
   transition: color 0.3s ease;
